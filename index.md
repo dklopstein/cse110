@@ -1,5 +1,3 @@
-# **Derek Klopstein**
-
 ![](images/"headshot".png)
 
 > *Knowing yourself is the beginning of all wisdom.*
